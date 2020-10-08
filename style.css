@@ -1,0 +1,19 @@
+body{
+	background: lightblue;
+}
+h1 {
+	color: red;
+ font-size: 80px;
+ font-family: 'Pacifico', cursive;
+}
+img {
+	width: 200px;
+}
+.img-rotate:hover{
+	width: 300px;
+	transform: rotate(720deg);
+	transition: 1.9s;
+}
+.red {
+	width: 100px
+}
